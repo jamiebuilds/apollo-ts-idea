@@ -1,0 +1,13 @@
+{
+  "name": "apollo-ts-idea",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jamie Kyle <me@thejameskyle.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.2.6",
+    "graphql-tag": "^2.10.0",
+    "react": "^16.6.3",
+    "react-apollo": "^2.3.2"
+  }
+}
